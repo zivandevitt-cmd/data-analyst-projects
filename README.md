@@ -1,2 +1,2 @@
-# data-analyst-projects
+# Data-analyst-projects
 my portfolio 
